@@ -5,5 +5,5 @@ Just Download the Files:
 cd Desktop
 git clone https://github.com/81m1tr1/NSMBU-Miyamoto-Objects.git
 ```
-For the Files visit:
+For NSMBU Modding Files visit:
 https://github.com/81m1tr1/NSMBU-Modding-essentials
